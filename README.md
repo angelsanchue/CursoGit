@@ -1,1 +1,2 @@
-# CursoGit
+# README
+Archivo para documentar el proyecto.
